@@ -3,6 +3,6 @@
 
 ----------------------------------------
 # Mentee Info!
-## Name : Nur Azizah & Hendry Ervandra
+## Name : Hendry Ervandra & Nur Azizah
 ## Program : IBM Advance AI
 ## Mentor : Cindy Febriani 
